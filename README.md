@@ -1,5 +1,9 @@
 ![image](https://github.com/kaochenlong/eddie-vim/raw/master/screenshots/vim-2012-03-27-macvim.png)
 
+## Specail Thanks
+
+Eddie Kao (eddie@digik.com.tw)
+
 ## Usage
 
 ### Installation and Requisites:
@@ -19,10 +23,11 @@
 
 5. just rename `eddie-vim` to `.vim`.
 
-6. link the vimrc to
+6. link the vimrc 
 
         ln -s .vim/vimrc .vimrc
+        
+## Related links
 
-## Specail Thanks
+### [NerdTree Mappings](https://gist.github.com/2667442) 
 
-Eddie Kao (eddie@digik.com.tw)
